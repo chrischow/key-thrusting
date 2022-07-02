@@ -45,7 +45,7 @@ export default function App() {
     <div className="main">
       <div className="title">
         <h1>Key-Thrusting</h1>
-        <p className="subtitle">Supercharge your bullshit development cycle.</p>
+        <p className="subtitle">Accelerate your bullshit development cycle.</p>
         <div className="btn-div">
           <button onClick={generateKeyThrusts}>
             <IoIosRocket style={{marginRight: '5px'}} />
