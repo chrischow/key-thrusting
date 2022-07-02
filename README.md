@@ -18,3 +18,6 @@ You're in luck! **key-thrusting** aims to help you supercharge your bullshit dev
 11. Maximize turn-key e-services to deploy optional cohesive archive.
 12. Harness compelling solutions to extend integrated 3rd generation moratorium.
 13. ...and many more!
+
+## About
+Key-Thrusting is a simple app that uses [Faker](https://fakerjs.dev/) to generate a series of three BS phrases.
