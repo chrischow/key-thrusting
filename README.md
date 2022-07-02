@@ -3,7 +3,9 @@ Does your reputation depend on the big meaningless words you use?
 
 Do you find yourself frequently cooking up phrases that sound smart but don't mean jack shit?
 
-You're in luck! **Key-Thrusting** aims to help you accelerate your bullshit development cycle. With **Key-Thrusting**, you can rapidly deliver useless phrases to the people handling the execution of your "strategy", thereby maximising their cluelessness about what to do with the crap you write.
+You're in luck! **Key-Thrusting** aims to help you accelerate your bullshit development cycle.
+
+With **Key-Thrusting**, you can rapidly deliver useless phrases to the people handling the execution of your "strategy", thereby maximising their cluelessness about what to do with the crap you write.
 
 We achieve this through the following:
 
@@ -22,7 +24,9 @@ We achieve this through the following:
 13. ...and many more!
 
 ## About
-Key-Thrusting is a simple app that uses [Faker](https://fakerjs.dev/) to generate a series of three bullshit phrases.
+Key-Thrusting is a simple app that uses [Faker](https://fakerjs.dev/) to generate ~~a series of three bullshit phrases~~ three statements on modern business concepts to help you take your organisation to the next level.
+
+![](./screenshot.jpg)
 
 1. Click "Thrust" to generate new phrases.
 2. Lock phrases if you're satisfied with them.
