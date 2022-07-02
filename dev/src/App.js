@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { faker } from '@faker-js/faker';
 import { IoIosRocket, IoMdLock, IoMdUnlock } from 'react-icons/io';
+import { TbNumber1, TbNumber2, TbNumber3 } from 'react-icons/tb';
 import './App.css';
 
 export default function App() {
@@ -58,17 +59,17 @@ export default function App() {
           <div className="thrust1-lock">
             {fixKt1 ? <IoMdLock style={{color: '#FF5364'}} onClick={() => toggleLock(1)} /> : <IoMdUnlock style={{color: '#E6BA0F'}} onClick={() => toggleLock(1)} />}
           </div>
-          <div className="thrust1-num">1</div>
+          <div className="thrust1-num"><TbNumber1 /></div>
           <div className="thrust1-text">{kt1}</div>
           <div className="thrust2-lock">
             {fixKt2 ? <IoMdLock style={{color: '#FF5364'}} onClick={() => toggleLock(2)} /> : <IoMdUnlock style={{color: '#E6BA0F'}} onClick={() => toggleLock(2)} />}
           </div>
-          <div className="thrust2-num">2</div>
+          <div className="thrust2-num"><TbNumber2 /></div>
           <div className="thrust2-text">{kt2}</div>
           <div className="thrust3-lock">
             {fixKt3 ? <IoMdLock style={{color: '#FF5364'}} onClick={() => toggleLock(3)} /> : <IoMdUnlock style={{color: '#E6BA0F'}} onClick={() => toggleLock(3)} />}
           </div>
-          <div className="thrust3-num">3</div>
+          <div className="thrust3-num"><TbNumber3 /></div>
           <div className="thrust3-text">{kt3}</div>
         </div>
       </div>

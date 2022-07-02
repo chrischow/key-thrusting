@@ -23,3 +23,7 @@ We achieve this through the following:
 
 ## About
 Key-Thrusting is a simple app that uses [Faker](https://fakerjs.dev/) to generate a series of three bullshit phrases.
+
+1. Click "Thrust" to generate new phrases.
+2. Lock phrases if you're satisfied with them.
+3. Highlight and copy them over to your next big corporate document to earn a promotion.
