@@ -3,7 +3,7 @@ Does your reputation depend on the big meaningless words you use?
 
 Do you find yourself frequently cooking up phrases that sound smart but don't mean jack shit?
 
-You're in luck! **Key-Thrusting** aims to help you accelerate your bullshit development cycle, and rapidly deliver useless phrases to the people handling the execution, thereby maximising their cluelessness about what to do with the crap you write.
+You're in luck! **Key-Thrusting** aims to help you accelerate your bullshit development cycle. With **Key-Thrusting**, you can rapidly deliver useless phrases to the people handling the execution of your "strategy", thereby maximising their cluelessness about what to do with the crap you write.
 
 We achieve this through the following:
 
