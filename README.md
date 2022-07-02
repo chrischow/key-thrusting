@@ -1,7 +1,7 @@
 # Key-Thrusting
 Ever needed to cook up phrases that sound smart but don't mean jack shit?
 
-Ever had to invent bullshit to literally mind-f\*ck (i.e. cognitively *thrusting* ideas into) your audience?
+Ever had to invent bullshit to literally mind-f\*ck your audience (i.e. cognitively *thrusting* ideas into their brains)?
 
 You're in luck! **key-thrusting** aims to help you supercharge your bullshit development cycle in numerous ways:
 
