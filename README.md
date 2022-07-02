@@ -1,9 +1,11 @@
 # Key-Thrusting
-Ever needed to cook up phrases that sound smart but don't mean jack shit?
+Does your reputation depend on the big meaningless words you use?
 
-Ever had to invent bullshit to literally mind-f\*ck your audience (i.e. cognitively *thrusting* ideas into their brains)?
+Do you find yourself frequently cooking up phrases that sound smart but don't mean jack shit?
 
-You're in luck! **key-thrusting** aims to help you supercharge your bullshit development cycle in numerous ways:
+You're in luck! **Key-Thrusting** aims to help you accelerate your bullshit development cycle, and rapidly deliver useless phrases to the people handling the execution, thereby maximising their cluelessness about what to do with the crap you write.
+
+We achieve this through the following:
 
 1. Transition web-enabled functionalities to leverage function-based homogeneous protocol.
 2. Exploit 24/7 supply-chains to enhance multi-channelled human-resource methodology.
@@ -20,4 +22,4 @@ You're in luck! **key-thrusting** aims to help you supercharge your bullshit dev
 13. ...and many more!
 
 ## About
-Key-Thrusting is a simple app that uses [Faker](https://fakerjs.dev/) to generate a series of three BS phrases.
+Key-Thrusting is a simple app that uses [Faker](https://fakerjs.dev/) to generate a series of three bullshit phrases.
